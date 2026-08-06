@@ -91,4 +91,11 @@ GitHub: https://github.com/Premsagarkar
 
 ---
 
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Premsagarkar&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Premsagarkar&layout=compact&theme=default)
+
 Thank you for visiting my GitHub profile.
